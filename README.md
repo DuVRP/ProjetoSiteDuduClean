@@ -10,7 +10,7 @@ Dudu Clean é um site destinado a prestação de serviços de limpeza e desinfec
 
 ### Links
 
-- Site hospedado: [Alura Dev]deploy deu erro
+- Site hospedado: [Site Hospedado]deploy deu erro
 
 ### Construido com
 
@@ -23,7 +23,7 @@ Dudu Clean é um site destinado a prestação de serviços de limpeza e desinfec
 ### O que eu aprendi
 
 - Utilizar bibliotecas como:
-- [Slick](https://highlightjs.org/)
+- [Slick](http://kenwheeler.github.io/slick/)
 - Desenvolvimento e resolução de erros.
 
 ### Continuação do desenvolvimento após a entrega do projeto

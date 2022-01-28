@@ -159,6 +159,7 @@ li.slick-active button {
     padding-right: 15px;
     float: left;
     position: relative;
+    font-family: 'Open Sans', sans-serif;
 }
 .bloco-texto {
     margin-top: 3em;
